@@ -1,0 +1,89 @@
+{ 
+	"1-1":
+		[
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Your mission is simple."},
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Rescue your girlfriend, bring the president home, and save America!"},
+		],
+	"1-2":
+		[
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Reports from the air says it looks like [shake]HELL[/shake] out there!"},
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Act quick and show no mercy!"},
+		],
+	"1-3":
+		[
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Eyes up Soilder!"},
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Looks like the boss of this level is up ahead."},
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Hold your fire until you have a clear shot."},
+		],
+	"2-1":
+		[
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "It's a good thing we have you on our side."},
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "This gap ahead looks like a pretty big jump"},
+				{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Shoot a RPG at your feet and and you should be able to clear it with a [rainbow]ROCKET JUMP"}
+		],
+	"2-2":
+		[	
+			{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Yeee Haw Solider."},
+			{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "That explosive repellent skin of yours is sure one fancy party trick!"},
+			{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "Keep your eyes out for more of them [shake]communist[/shake] bastards."}
+		],
+	"2-3":
+		[
+			{"Name":"[center]Flying Plant", "image":"Pirana Plant", "Text": "Psssst! Hey whats up man"},
+			{"Name":"[center]Joe", "image":"Pirana Plant", "Text": "Nice to meet you, my names Joe. I might look like I bite, but if you look closely I don't have any teeth"},
+			{"Name":"[center]Joe", "image":"Pirana Plant", "Text": "[shake]WHOA COWBOY[/shake], I see you're packing a giant grenade launcher of sorts, you got a permit for that thing?"},
+			{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "You need to move quick!"},
+			{"Name":"[center]Sergeant Sarge", "image":"Sergeant Sarge", "Text": "The only way you can clear that gap is by using Joe as a launch pad for a [rainbow]ROCKET JUMP[/rainbow]"}
+		],
+	"2-4":
+		[
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text":"Looks like the only way to the next level is though that sewage pipe."},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "Oh come on... a little feces never killed anyone."}
+		],
+	"3-1":
+		[
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text":"WOW it's sure dark in there... who woulda thought?"},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "You'll have to figure out a way to light up your surroundings"}
+		],
+	"4-1":
+		[
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text":"Thought I lost you there for a second."},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "You're almost at the objective, just keep movin'."}
+		],
+	"4-2":
+		[
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text":"[shake]DO YOU HEAR THAT??!"},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "[shake]INCOMING STAMPEDE, FIRE AS FAST AS YOU CAN AND GET UP THAT HILL"}
+		],
+	"5-1":
+		[
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "This next jump looks tricky"},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "To make this jump you will need shoot yourself in mid air"},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "First do a [rainbow]ROCKET JUMP[/rainbow] then aim at your feet in mid air and fire!"},
+		],
+	"5-2":
+		[
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "You're almost at the final boss."},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "There are 4 walls up ahead, you just have to berak though them and you'll be there"}
+		],
+	"5-3":
+		[
+			{"Name":"[center]Broken 4th Wall",  "image":"brickwall", "Text": "This game isn't even funny."},
+			{"Name":"[center]Broken 4th Wall",  "image":"brickwall", "Text": "It's just: What if mario had a rocket launcher? ...and that's the joke."},
+			{"Name":"[center]Broken 4th Wall",  "image":"brickwall", "Text": "There's nothing clever about asking: 'What if RPG meant rocket-propelled grenade, instead of role playing game?'"},
+			{"Name":"[center]Broken 4th Wall",  "image":"brickwall", "Text": "I mean where's the humor there? This whole experience is just a lazy attempt in pandering"}
+		],
+	"5-4":
+		[
+			{"Name":"[center]????",  "image":"god", "Text": "Look's like you're having a tough time."},
+			{"Name":"[center]????",  "image":"god", "Text": "Let me advance you to the platform."},
+		],
+	"5-5":
+		[
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "Well well well isn't this a surprise"},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "That's right I'm the [shake]FINAL BOSS[/shake] after all"},
+			{"Name":"[center]Broken 4th Wall",  "image":"brickwall", "Text": "They just made you the final boss because they ran out of assets and got lazy"},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "[shake]Quiet You!"},
+			{"Name":"[center]Sergeant Sarge",  "image":"Sergeant Sarge", "Text": "As I was saying let's settle this once and for all!"},
+		]
+	}

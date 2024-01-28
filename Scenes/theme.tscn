@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://e3wawy535pvx"]
+
+[ext_resource type="AudioStream" uid="uid://cffk6msbyo55t" path="res://Assets/Sounds/theme.wav" id="1_hp6of"]
+[ext_resource type="AudioStream" uid="uid://bxemdvl3jsqgr" path="res://Assets/Sounds/theme2.wav" id="2_10qt7"]
+
+[node name="Theme" type="Node"]
+process_mode = 3
+
+[node name="theme" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("1_hp6of")
+volume_db = -5.0
+autoplay = true
+
+[node name="battle_theme" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_10qt7")
+volume_db = -10.0
