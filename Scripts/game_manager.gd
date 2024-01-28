@@ -1,5 +1,4 @@
 extends Node2D
-@onready var label = %Label
 @onready var cool_explosion = preload("res://Scenes/cool_explosion.tscn")
 @onready var camera_2d = $"../SceneObjects/CharacterBody2D/Camera2D"
 @onready var bullet = preload("res://Scenes/bullet.tscn")
@@ -10,12 +9,6 @@ extends Node2D
 var bullet_counter = 0  # Counter to keep track of bullet names
 const BULLET_SPEED = 15
 
-
-var points = 0
-
-func add_point():
-	points += 1
-	label.text = "Points: " + str(points)
 
 func _input(event):
 	if Input.is_action_just_pressed("escape"):
